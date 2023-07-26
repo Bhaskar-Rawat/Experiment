@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    background-color: aqua;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
